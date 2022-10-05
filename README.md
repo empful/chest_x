@@ -1,5 +1,8 @@
 # chest_x
 
+Requirement:
+Python 3.7; Pytorch 1.10.0;  Transformer; datasets
+
 Generate jsonl file with labels
 ```
 python process_labels.py
